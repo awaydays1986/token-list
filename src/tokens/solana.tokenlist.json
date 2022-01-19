@@ -83530,7 +83530,21 @@
         "twitter": "https://twitter.com/yakuzawarsnft",
         "website": "https://yakuzawars.com/"
       }
+    },
+	{
+      "chainId": 101,
+      "address": "HY6nE4EhqJmG8ZDNq1KKL1BrFE4DMuMyM2K7hUG8NQcA",
+      "symbol": "$TRBL",
+      "name": "Trouble Maker",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/12BGWWdhL564TNpZKi8Bz4bkJYue7KysbrVw4fHYzPUz/logo.png",
+      "extensions": {
+        "discord": "https://discord.gg/47eFDr8a",
+        "twitter": "https://twitter.com/SuccubusHC",
+        "website": "https://succubushc.io"
+      }
     }
+	
   ],
   "version": {
     "major": 0,
